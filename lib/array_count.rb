@@ -12,5 +12,5 @@ def count_empty_strings(array)
   end 
 end
 
-count_strings(["string", 2, "string2", 5])
-count_empty_strings(["string", 2, 5, ""])
+puts count_strings(["string", 2, "string2", 5])
+puts count_empty_strings(["string", 2, 5, ""])
